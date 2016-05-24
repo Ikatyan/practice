@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">GraphToDo</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">設定</string>
     <string name="today">今日まで</string>
+    <string name="tomorrow">明日まで</string>
+    <string name="day_after_tomorrow">明後日まで</string>
 </resources>
